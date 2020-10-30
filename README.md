@@ -1,4 +1,4 @@
-#Climate Flask App
+#Climate Analysis
 
 This Flask application uses various routes to call on data from a SQL database and display jsonified versions.
 
