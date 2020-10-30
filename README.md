@@ -12,7 +12,11 @@ Additionally, the repo contains a jupyter notebook that obtains the data from th
 This was accomplished using:
 
 Flask
+
 SQLite
+
 Pandas
+
 Matplotlib
+
 Jupyter Notebook
